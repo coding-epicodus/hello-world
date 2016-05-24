@@ -11,8 +11,8 @@ This web games sets the user at the bridge main terminal of a space pirate ship 
 
 ##Technologies Used
 * AngularJS
-*  javascript
-*  Bootstrap
+* javascript
+* Bootstrap
 * Legal
 
 ### Copyright (c) 2016 Copyright Holder All Rights Reserved.
